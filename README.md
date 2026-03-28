@@ -14,36 +14,25 @@ I am a passionate coder from India, currently focusing on mastering **Python** a
 - **Current Goal:** Mastering Data Structures in Python & Ethical Hacking Basics
 
 ---
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashraval3709-prog&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashraval3709-prog&layout=compact&theme=tokyonight)
-<!--#![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashraval3709-prog&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashraval3709-prog&layout=compact&theme=radical)-->!
+
+### 📊 My GitHub Stats
+
+<!--<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashraval3709-prog&show_icons=true&theme=vue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashraval3709-prog&layout=compact&theme=vue&hide_border=true" />
+</p>-->
 
 ---
 
 ### 🤝 Connect with me:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akash-raval-a04809398)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sky.___0009/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-raval-a04809398)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sky.___0009/)
 
 ---
 
 ### ⚡ Fun Fact
 "I believe that every line of code should be secure and efficient!"
-<!--## Hi there 👋
-
-
-**akashraval3709-prog/akashraval3709-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
---!>
