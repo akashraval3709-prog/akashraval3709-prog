@@ -1,38 +1,50 @@
-# Hi there, I'm Akash Raval! 👋
-
-### 🚀 BCA Student | Python Developer | Cybersecurity Enthusiast
-
-I am a passionate coder from India, currently focusing on mastering **Python** and exploring the world of **Cybersecurity**. I love building automated scripts and learning how to secure applications.
-
----
-
-### 🛠️ Skills & Technologies
-
-- **Programming Languages:** 🐍 Python (Advanced Learning)
-- **Security Tools:** 🛡️ Basic Penetration Testing, Network Security
-- **Tools & Platforms:** 💻 VS Code, Git, GitHub, Linux
-- **Current Goal:** Mastering Data Structures in Python & Ethical Hacking Basics
-
----
-
-### 📊 My GitHub Stats
-
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashraval3709-prog&show_icons=true&theme=vue&hide_border=true" />
+<h1 align="center">👋 Hi, I'm Akash Raval</h1>
+<h3 align="center">🧑🏻‍🎓 BCA Student | 🐍  Python Developer | 🔐 Cybersecurity Enthusiast | 💻 Web Developer</h3>
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+My+GitHub+Universe!;BCA+Student+at+HNGU+🎓;Learning+Python+%26+Cybersecurity+🔐;Always+Improving+🚀" />
 </p>
 
+---
+
+## 🛠️ Skills & Technologies
+
+- **🚀 Programming Mastery:** 🐍 `Python` (Advanced Learning), 🔵 `C Language`, 🐘 `PHP`
+- **🛡️ Cyber Defense:** 🕵️‍♂️ `Basic Penetration Testing`, 📡 `Network Security`, 🔐 `Ethical Hacking`
+- **💻 Tools & Platforms:** ⚡ `VS Code`, 📁 `Git`, 🐙 `GitHub`, 🐧 `Linux`
+- **🎯 Current Mission:** 🧠 `Mastering DSA in Python` & 🧪 `Ethical Hacking Basics` Goal:** 🎓 Preparing for **Cybersecurity Excellence** while mastering **Backend Development**.
+
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashraval3709-prog&layout=compact&theme=vue&hide_border=true" />
-</p>-->
+  <a href="https://www.linkedin.com/in/akash-raval-a04809398">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/sky.___0009/">
+    <img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:ar3897903@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🤝 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-raval-a04809398)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sky.___0009/)
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,php,mysql,linux,vscode,git,github"/>
+</p>
 
 ---
 
-### ⚡ Fun Fact
-"I believe that every line of code should be secure and efficient!"
+## 📊 GitHub Dashboard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashraval3709-prog&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashraval3709-prog&theme=tokyonight" height="170"/>
+</p>
+
+
+## 💡 Developer Quote
+<b> "First, solve the problem. Then, write the code."* 💡</b>
