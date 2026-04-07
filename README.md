@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Akash Raval</h1>
+<h1 align="center"><b>👋 Hi, I'm Akash Raval</b></h1>
 <h3 align="center">🧑🏻‍🎓 BCA Student | 🐍  Python Developer | 🔐 Cybersecurity Enthusiast | 💻 Web Developer</h3>
  
 <p align="center">
