@@ -41,14 +41,21 @@
 
 ## 📊 GitHub Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashraval3709-prog&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashraval3709-prog&theme=tokyonight&hide_border=false" height="170"/>
 </p>
 
- <p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashraval3709-prog&theme=github-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" />
-</p> 
+</p> -->
 
+<h2 align="center">🚀 akash's Contribution Graph</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akashraval3709-prog&theme=github-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" 
+    width="95%"
+  />
+</p>
 
 ## 💡 Developer Quote
 <b> "First, solve the problem. Then, write the code."* 💡</b>
