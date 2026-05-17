@@ -12,7 +12,7 @@
 - **🚀 Programming Mastery:** 🐍 `Python` (Advanced Learning), 🔵 `C Language`, 🐘 `PHP`
 - **🛡️ Cyber Defense:** 🕵️‍♂️ `Basic Penetration Testing`, 📡 `Network Security`, 🔐 `Ethical Hacking`
 - **💻 Tools & Platforms:** ⚡ `VS Code`, 📁 `Git`, 🐙 `GitHub`, 🐧 `Linux`
-- **🎯 Current Mission:** 🧠 `Mastering DSA in Python` & 🧪 `Ethical Hacking Basics` Goal:** 🎓 Preparing for **Cybersecurity Excellence** while mastering **Backend Development**.
+- **🎯 Current Mission:** 🧠 `Mastering DSA in Python` & 🧪 `Ethical Hacking Basics` Goal: 🎓 Preparing for **Cybersecurity Excellence** while mastering **Backend Development**.
 
 
 ---
@@ -45,9 +45,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashraval3709-prog&theme=tokyonight&hide_border=false" height="170"/>
 </p>
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashraval3709-prog&theme=github-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" />
-</p>
+</p> 
 
 
 ## 💡 Developer Quote
