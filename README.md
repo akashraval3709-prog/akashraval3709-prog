@@ -41,7 +41,10 @@
 
 ## 📊 GitHub Dashboard
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashraval3709-prog&theme=tokyonight&hide_border=false" height="170"/>
+ <img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=akashraval3709-prog&theme=tokyonight&cache_seconds=1" 
+  height="180"
+/>
 </p>
 
 <!-- <p align="center">
