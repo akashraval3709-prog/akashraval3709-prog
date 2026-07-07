@@ -69,12 +69,10 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=akashraval3709-prog&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=akashraval3709-prog&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak" 
   />
 </p>
-
----
 
 ## 🚀 akash's Contribution Graph
 
