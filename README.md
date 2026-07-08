@@ -30,7 +30,6 @@ alt="Header"/>
 </a>
 
 ##
----
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+My+GitHub+Universe!;BCA+Student+at+HNGU+🎓;Learning+Python+%26+Cybersecurity+🔐;Always+Improving+🚀" />
