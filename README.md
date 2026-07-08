@@ -29,7 +29,8 @@ alt="Header"/>
 <img src="https://img.shields.io/github/stars/akashraval3709-prog?style=for-the-badge&logo=github&labelColor=0d1117&color=0891b2"/>
 </a>
 
-
+##
+---
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+My+GitHub+Universe!;BCA+Student+at+HNGU+🎓;Learning+Python+%26+Cybersecurity+🔐;Always+Improving+🚀" />
