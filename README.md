@@ -20,7 +20,7 @@ alt="Header"/>
 
 <a href="https://github.com/akashraval3709-prog?tab=followers">
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=akashraval3709-prog&style=for-the-badge&label=PROFILE+VIEWS&color=0891b2"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=akashraval3709-prog&style=for-the-badge&label=PROFILE+VIEWS&color=0891b2"/> -->
 
 <!-- Followers -->
 <img src="https://img.shields.io/github/followers/akashraval3709-prog?style=for-the-badge&logo=github&labelColor=0d1117&color=0891b2"/>
