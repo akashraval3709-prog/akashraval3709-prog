@@ -68,31 +68,6 @@ alt="Header"/>
 ---
 
 <!--## 📊 GitHub Dashboard
-<!-- <p align="center">
- <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=akashraval3709-prog&theme=tokyonight&cache_seconds=1" 
-  height="180"
-/>
-</p> 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=akashraval3709-prog&theme=tokyonight&hide_border=true&cache_seconds=1"
-  />
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashraval3709-prog&theme=github-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" />
-</p> 
-
-<h2 align="center">🚀 akash's Contribution Graph</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=akashraval3709-prog&theme=github-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" 
-    width="95%"
-  />
-</p>-->
-## 📊 GitHub Dashboard
 
 <p align="center">
   <img
@@ -107,6 +82,25 @@ alt="Header"/>
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=akashraval3709-prog&theme=github-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" 
     width="95%" 
+    alt="Contribution Graph"
+  />
+</p>-->
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=akashraval3709-prog&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+## 🚀 akash's Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akashraval3709-prog&theme=github-dark&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true"
+    width="95%"
     alt="Contribution Graph"
   />
 </p>
